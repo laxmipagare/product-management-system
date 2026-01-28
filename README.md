@@ -48,7 +48,7 @@ CSRF protection enabled.
 
 **Installation**
 **Clone Repository**
-git clone https://github.com/YOUR_USERNAME/product-management-system.git
+git clone https://github.com/laxmipagare/product-management-system.git
 cd product-management-system
 
 **Install Dependencies**
